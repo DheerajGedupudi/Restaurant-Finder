@@ -131,5 +131,3 @@ The project follows a **Layered Architecture** for better separation of concerns
 
 **Dheeraj Gedupudi**  
 [Website](https://www.dheerajgedupudi.com) | [LinkedIn](https://linkedin.com/in/dheeraj-gedupudi) | [Email](mailto:dheerajgedupudi@gmail.com)
-
----
